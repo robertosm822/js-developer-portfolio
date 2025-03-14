@@ -1,39 +1,31 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Roberto S Melo",
+  "photo": "https://raw.githubusercontent.com/robertosm822/js-developer-portfolio/refs/heads/main/assets/img/eu-perfil.jpeg",
+  "job": "Web Develop Sênior",
+  "location": "São Carlos - SP",
+  "phone": "(16) 00000-0000",
+  "email": "robertomelo822@gmail.com",
   "skills": {
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-      },
-      {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
-      },
-      {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/robertosm822/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/robertosm822/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
         "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "logo": "https://raw.githubusercontent.com/robertosm822/js-developer-portfolio/main/data/imgs/mongodb.png"
       },
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/robertosm822/js-developer-portfolio/main/data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
-      "Empatia",
+      "Boa comunicação",
       "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
@@ -43,8 +35,7 @@
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Espanhol (intermediário)"
   ],
   "portfolio": [
     {

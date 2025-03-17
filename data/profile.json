@@ -47,13 +47,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Projeto de Sistema de Leilões Online",
+      "url": "https://github.com/robertosm822/class-development-system-auction",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto de API em Node.js + Express + Mysql",
+      "url": "https://github.com/robertosm822/API-Nodejs---Express---Mysql",
       "github": true
     }
   ],

@@ -59,19 +59,23 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Desenvolvedor web sênior / PJ",
+      "period": "abril/2022 - até o momento",
+      "description": "Atuando como prestador de serviços (PJ) em projetos remotos de desenvolvimento de software com Framework Laravel, Cache com REDIS, banco MySQL, PostgreSQL. Desenvolvimento de APIs com Express.JS em pataforma Node.js. Prestação de Serviço par Fintech de Pagamentos. Integrações com API de PIX (Mercado Pago, Banco do Brasil, Bradesco, Celcoin, Stark Bank e Dock). Trabalhado em sistema de cobranças por Boleto PIX do Banco do Brasil."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Analista Desenvolvedor Web Sênior / Sodré Santoro Leilões",
+      "period": "julho/2023 - julho/2024",
+      "description": "Atuando como mantenedor de software legado PHP, suporte a bugs e melhorias. Trabalhando em plataforma real time com Vue.JS + Banco de Dados NoSQL Google Firebase."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Analista de Sistemas Desenvolvedor Sênior | Líder / Business Integrator",
+      "period": "julho/2020 - março/2023",
+      "description": "Desenvolvimento back-end de soluções para plataforma integradora. Integração para lojistas em marketplaces renomados como Magalu, Skyhub, B2W (Americanas, Submarino), Madeira Madeira, Carrefour, Via Varejo (Casas Bahia, Ponto Frio e Extra) e multi marketplaces do setor de construção civil como Leroy Merlin, Toca A Obra e Oruby. Tecnologias utilizadas nas integração com os marketplaces: PHP Orientado a Objeto aplicado a plataforma de API do Woocommerce Wordpress Plugins. BootStrap 4, MySQL."
+    },
+    {
+      "name": "Desenvolvedor Sênior Node.JS | PJ / Pronto Combustíveis",
+      "period" : "setembro/2019 - junho/2020"
     }
   ]
 }
